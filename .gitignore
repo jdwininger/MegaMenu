@@ -1,0 +1,7 @@
+out/
+*.bin
+*.smd
+*.gen
+*.log
+*.tmp
+.DS_Store
